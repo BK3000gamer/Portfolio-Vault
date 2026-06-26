@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: khoiportfoliovault.github.xyz
+  baseUrl: BK3000gamer.github.io/Portfolio-Vault
   ignorePatterns:
     - private
     - templates
