@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"7656123b9e3a98e7","type":"file","file":"Attachment/Character_Sprites.png","x":164,"y":-348,"width":400,"height":350},
+		{"id":"4bb881d915a15bc2","type":"file","file":"Attachment/Illustration.png","x":-295,"y":-357,"width":400,"height":283}
+	],
+	"edges":[]
+}

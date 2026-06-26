@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a119072da458e504","type":"file","file":"Attachment/ICEBREAKER Script.pdf","x":-720,"y":-400,"width":400,"height":400},
+		{"id":"4ccb4529a0b33703","x":-280,"y":-400,"width":400,"height":400,"type":"file","file":"Attachment/Hoang_Bao Khoi_Assignment_03.pdf"},
+		{"id":"9374e0a43506903b","x":180,"y":-400,"width":400,"height":400,"type":"file","file":"Attachment/Hoang_Bao Khoi_ART10004_Ass02.pdf"}
+	],
+	"edges":[]
+}

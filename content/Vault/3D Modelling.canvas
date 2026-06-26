@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"a643bc4c79c41477","type":"file","file":"Attachment/6.png","x":-520,"y":20,"width":400,"height":283},
+		{"id":"758e141d081f42ff","type":"file","file":"Attachment/7.png","x":-75,"y":20,"width":400,"height":283},
+		{"id":"f7b0262f5588717c","type":"file","file":"Attachment/8.png","x":370,"y":20,"width":400,"height":283},
+		{"id":"fa5fab3a21e8ff7f","type":"file","file":"Attachment/3.png","x":-520,"y":-320,"width":400,"height":283},
+		{"id":"3c3fc62962747f72","type":"file","file":"Attachment/4.png","x":-75,"y":-320,"width":400,"height":283},
+		{"id":"d3a12c12bb0f9aa9","type":"file","file":"Attachment/5.png","x":370,"y":-320,"width":400,"height":283},
+		{"id":"edaf9222c162fd33","type":"file","file":"Attachment/9.png","x":-520,"y":360,"width":400,"height":283},
+		{"id":"ceeb59eb6eba0225","type":"file","file":"Attachment/2.png","x":370,"y":360,"width":400,"height":283},
+		{"id":"fc9b841c0df3d818","type":"file","file":"Attachment/1.png","x":-75,"y":360,"width":400,"height":283},
+		{"id":"b166024a8be38e84","type":"file","file":"Attachment/Illustration2.png","x":840,"y":-320,"width":400,"height":283},
+		{"id":"72c363c1c8cd1929","type":"file","file":"Attachment/DDD20022_2024_s2_104500274_Hoang_Bao Khoi _PolygonPet.jpg","x":-520,"y":720,"width":400,"height":400},
+		{"id":"2c993cca4e2b0671","type":"file","file":"Attachment/DDD20022_2024_s2_104500274_Hoang_Bao Khoi_Final_image_from_Maya.jpg","x":370,"y":720,"width":400,"height":283},
+		{"id":"af82e7d367e09254","type":"file","file":"Attachment/DDD20022_2024_s2_104500274_Hoang_Bao Khoi_Final_AO_wireframe.jpg","x":-75,"y":720,"width":400,"height":283},
+		{"id":"88f23e6a3e7adad4","type":"file","file":"Attachment/DDD20022_2024_s2_104500274_Hoang_Bao Khoi_Final_image_with_PostProduction.jpg","x":815,"y":720,"width":400,"height":283},
+		{"id":"f7bdb0bc0f0a24d0","type":"file","file":"Attachment/DDD20022_2024_s2_104500274_Hoang_Bao Khoi_Wireframe_01.jpg","x":-80,"y":1080,"width":400,"height":283},
+		{"id":"0ca22caed3847dd4","type":"file","file":"Attachment/DDD20022_2024_s2_104500274_Hoang_Bao Khoi_Wireframe_02.jpg","x":365,"y":1080,"width":400,"height":283},
+		{"id":"f1e6b65bb73d9032","type":"file","file":"Attachment/DDD20022_2024_s2_104500274_Hoang_Bao Khoi_Wireframe_03.jpg","x":810,"y":1080,"width":400,"height":283},
+		{"id":"668b53effa0c798a","type":"file","file":"Attachment/DDD20022_2024_s2_104500274_Hoang_Bao Khoi_Reel.mp4","x":-520,"y":1200,"width":400,"height":225}
+	],
+	"edges":[]
+}

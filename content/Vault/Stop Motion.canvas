@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"55a5b3397394b6de","x":-535,"y":155,"width":400,"height":225,"type":"file","file":"Attachment/HOANG_Bao Khoi.mp4"},
+		{"id":"aac7dd42976a2fa2","x":-540,"y":-140,"width":400,"height":225,"type":"file","file":"Attachment/HOANG_Bao Khoi_Puppet_Animation_Checkpoint.mp4"},
+		{"id":"f4b1474d974de3a5","x":-540,"y":-420,"width":400,"height":225,"type":"file","file":"Attachment/HOANG_Bao Khoi_Obscure_Items_Checkpoint.mp4"}
+	],
+	"edges":[]
+}
