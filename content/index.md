@@ -5,3 +5,4 @@ tags:
   - home
 sticker: lucide//home
 ---
+[[University]]
