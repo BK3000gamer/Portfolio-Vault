@@ -2,7 +2,6 @@
 title: Bachelor of Animation
 draft: false
 tags:
-  - example-tag
 ---
 [[Introduction to Animation]]
 [[2D Production Techniques for Animation]]

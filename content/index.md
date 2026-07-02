@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Home
 draft: false
 tags:
   - home

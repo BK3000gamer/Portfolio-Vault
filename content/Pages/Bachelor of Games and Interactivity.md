@@ -2,7 +2,6 @@
 title: Bachelor of Games and Interactivity
 draft: false
 tags:
-  - example-tag
 ---
 [[Introduction to Game Studies]]
 [[3D Modelling for Objects and Environments]]
